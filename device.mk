@@ -34,7 +34,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     NcmTetheringOverlay \
-    OverwriteUpdaterUrl
+    OverwriteUpdaterUrl \
+    DeviceAsWebcamResTarget
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
