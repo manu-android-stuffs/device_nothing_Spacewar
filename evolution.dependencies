@@ -18,5 +18,10 @@
   {
     "repository": "packages_apps_ParanoidGlyph",
     "target_path": "packages/apps/ParanoidGlyph"
+  },
+  {
+    "repository"  : "lineageos4microg/android_vendor_partner_gms",
+    "remote"      : "github-non-los",
+    "target_path" : "vendor/partner_gms"
   }
 ]
