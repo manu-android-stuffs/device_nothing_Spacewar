@@ -19,6 +19,8 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 TARGET_INCLUDE_GRAMOPHONE := true
 TARGET_SUPPORT_BOOT_ANIMATIONS := true
 BUILD_BCR := true
+WITH_GMS := false
+WITH_MICROG := true
 
 # Bypass Charging
 BYPASS_CHARGE_SUPPORTED := true

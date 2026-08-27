@@ -30,5 +30,11 @@
     "remote"      : "github-non-los",
     "branch"      : "a",
     "target_path" : "packages/apps/DolbyUI"
+  },
+  {
+    "repository"  : "lineageos4microg/android_vendor_partner_gms",
+    "remote"      : "github-non-los",
+    "branch"      : "master",
+    "target_path" : "vendor/partner_gms"
   }
 ]
